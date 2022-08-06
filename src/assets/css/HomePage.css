@@ -1,0 +1,11 @@
+.homepage{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.home-div{
+    border: 2px solid red;
+    height: 87.7vh;
+    width: 82vw;
+}

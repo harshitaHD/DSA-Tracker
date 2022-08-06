@@ -1,0 +1,24 @@
+.sidebar{
+    width: fit-content;
+    display: flex;
+    justify-content: center;
+}
+
+.sidebar ul{
+    width: fit-content;
+}
+
+.sidebar ul hr{
+    border: 2px solid white;
+}
+.sidebar ul li{
+    height: fit-content;
+}
+.button-collapse{
+    display: flex;
+
+}
+
+.button-collapse i{
+    font-size: 25px;
+}
